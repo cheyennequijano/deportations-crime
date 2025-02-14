@@ -1,1 +1,3 @@
-# deportations-crime
+# The Impact of Deportation Policies on Crime and Employment
+
+Current research finds minimal changes in crime resulting from mass deportation policies in deporting countries (Hines & Peri, 2019; Miles & Cox, 2014). I explore whether this result is driven by heterogeneous effects across different crime types. This project uses an event study to analyze how various crime types respond over time to the enactment and dissolution of the U.S. Secure Communities program. The empirical findings will inform an extended labor market search and matching model, incorporating Becker’s (1974) model of crime, to assess changes in legal and criminal employment following the policy.
